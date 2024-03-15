@@ -1,2 +1,2 @@
-# Ashwini
-Basics of Statistics 
+Basics of Statistics-1
+Assignment-1
